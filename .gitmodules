@@ -1,0 +1,3 @@
+[submodule "tfmodules"]
+	path = tfmodules
+	url = https://github.com/mohammadarshadkolkar-cloud/tfmodules.git
